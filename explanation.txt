@@ -1,0 +1,6 @@
+here We analysed a fake advertising data from kaggle
+The data is basically about if a certain ad is clicked or not
+we first checked about the age using a distribution plot and density of area income vs age and got the rough idea where the majority of people shown the ad lies
+using a paiplot we uderstood that who are using internet for less time are tend to click on the ad more 
+then we checked if there is any missing data and there was no missing data
+finally we made a logistic regression model and checked it's confusion matrix and it's accuracy , precision, f1 score etc.
